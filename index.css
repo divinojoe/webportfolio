@@ -1,0 +1,32 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Josefin Sans', sans-serif;
+	box-sizing: border-box;
+
+}
+
+
+
+.icon {
+	height: 100vh;
+	width: 100%;
+	background-image: url(./images/endless-constellation.png);
+	background-size: cover;
+	
+}
+
+.name {
+	color:	whitesmoke;
+	font-size: 50px;
+	letter-spacing: 1px;
+		position: absolute;
+	top:50%;
+	left:3%;
+}
+
+nav h2 h4 {
+	display: inline-block;
+}
+
